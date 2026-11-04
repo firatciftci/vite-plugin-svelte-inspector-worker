@@ -1,0 +1,13 @@
+{
+  "name": "vps-inspector-worker-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "7.3.1",
+    "svelte": "5.57.3",
+    "vite": "8.3.5"
+  }
+}
